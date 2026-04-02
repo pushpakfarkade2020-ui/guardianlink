@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-merged_res-34:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-main-36:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.guardianlink.app-merged_res-34:/layout_widget_layout.xml.flat",
+        "source": "com.guardianlink.app-main-36:/layout/widget_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-merged_res-34:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-merged_res-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-merged_res-34:\\layout_widget_layout.xml.flat",
+        "source": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-main-36:\\layout\\widget_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-merged_res-34:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-main-36:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-merged_res-34:\\drawable_sos_glow.xml.flat",
+        "source": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-main-36:\\drawable\\sos_glow.xml"
+    },
+    {
+        "merged": "com.guardianlink.app-merged_res-34:/drawable_widget_sos_btn.xml.flat",
+        "source": "com.guardianlink.app-main-36:/drawable/widget_sos_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-merged_res-34:\\xml_widget_info.xml.flat",
+        "source": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-main-36:\\xml\\widget_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-merged_res-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-merged_res-34:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.guardianlink.app-merged_res-34:/drawable_widget_bg.xml.flat",
+        "source": "com.guardianlink.app-main-36:/drawable/widget_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-merged_res-34:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-main-36:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-merged_res-34:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-main-36:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-merged_res-34:\\drawable_sos_circle.xml.flat",
+        "source": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-main-36:\\drawable\\sos_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-merged_res-34:\\drawable_card_bg.xml.flat",
+        "source": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-main-36:\\drawable\\card_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-merged_res-34:\\layout_item_contact.xml.flat",
+        "source": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-main-36:\\layout\\item_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-main-36:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-merged_res-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-merged_res-34:\\drawable_button_bg.xml.flat",
+        "source": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-main-36:\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-merged_res-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-merged_res-34:\\drawable_input_bg.xml.flat",
+        "source": "C:\\Users\\PUSHPAK\\.gradle\\daemon\\9.0-milestone-1\\com.guardianlink.app-main-36:\\drawable\\input_bg.xml"
+    }
+]
