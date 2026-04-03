@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="horizontal"
     android:padding="12dp"
     android:background="@drawable/card_bg"
@@ -37,7 +39,7 @@
     <ImageView
         android:id="@+id/deleteBtn"
         android:src="@android:drawable/ic_menu_delete"
-        android:tint="#EF4444"
+        app:tint="#EF4444"
         android:padding="8dp"
         android:layout_width="40dp"
         android:layout_height="40dp"/>
